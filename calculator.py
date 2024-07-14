@@ -10,6 +10,3 @@ def mulityply(a, b):
 
 def divide_free(a, b):
 	return a/b
-
-def squar(a):
-	return a*a
